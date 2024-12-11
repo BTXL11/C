@@ -395,5 +395,34 @@ char* strcat(char* destination, const char* source)
 	return(destination);
 }
 //连接字符串
+int fib(int n)
+{
+	if (n <= 2)
+		return 1;
+	else
+	{
+		return fib(n - 1) + fib(n - 2);
+	}
+}
+//斐波那契数列
+int Fib(int n)
+{
+	int a = 1;
+	if (n == 1 || n == 2)
+		return 1;
+	else if (n > 2)
+	{
+		int a = 1, b = 1, c;
+		for (int i = 3; i <= n; i++)
+		{
+			c = a + b;
+			a = b;
+			b = c;
 
+		}
+		return c;
+	}
+
+}
+//斐波那契数列
 
