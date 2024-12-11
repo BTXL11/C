@@ -1,0 +1,10 @@
+﻿  源.c
+C:\work\VS\repos\测试\测试.h(245,42): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“源.c”)
+  
+C:\work\VS\repos\测试\测试.h(247,58): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“源.c”)
+  
+C:\work\VS\repos\测试\源.c(6,25): warning C4013: “fib”未定义；假设外部返回 int
+C:\work\VS\repos\测试\源.c(36,1): warning C4715: “F”: 不是所有的控件路径都返回值
+  测试.vcxproj -> C:\work\VS\repos\测试\x64\Debug\测试.exe

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\VS\\repos\\\u6D4B\u8BD5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E14CBA-4C26-42E5-B234-F2584C0C51DE}|\u6D4B\u8BD5.vcxproj|C:\\work\\VS\\repos\\\u6D4B\u8BD5\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E14CBA-4C26-42E5-B234-F2584C0C51DE}|\u6D4B\u8BD5.vcxproj|solutionrelative:\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E14CBA-4C26-42E5-B234-F2584C0C51DE}|\u6D4B\u8BD5.vcxproj|C:\\work\\VS\\repos\\\u6D4B\u8BD5\\\u6D4B\u8BD5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11E14CBA-4C26-42E5-B234-F2584C0C51DE}|\u6D4B\u8BD5.vcxproj|solutionrelative:\u6D4B\u8BD5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u6D4B\u8BD5.h",
+              "DocumentMoniker": "C:\\work\\VS\\repos\\\u6D4B\u8BD5\\\u6D4B\u8BD5.h",
+              "RelativeDocumentMoniker": "\u6D4B\u8BD5.h",
+              "ToolTip": "C:\\work\\VS\\repos\\\u6D4B\u8BD5\\\u6D4B\u8BD5.h",
+              "RelativeToolTip": "\u6D4B\u8BD5.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T09:02:57.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "C:\\work\\VS\\repos\\\u6D4B\u8BD5\\\u6E90.c",
+              "RelativeDocumentMoniker": "\u6E90.c",
+              "ToolTip": "C:\\work\\VS\\repos\\\u6D4B\u8BD5\\\u6E90.c",
+              "RelativeToolTip": "\u6E90.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-10T09:02:49.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
